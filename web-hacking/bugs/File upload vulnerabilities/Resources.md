@@ -1,0 +1,4 @@
+- https://portswigger.net/web-security/file-upload
+- https://www.intigriti.com/researchers/blog/hacking-tools/insecure-file-uploads-a-complete-guide-to-finding-advanced-file-upload-vulnerabilities
+- https://cheatsheetseries.owasp.org/cheatsheets/File_Upload_Cheat_Sheet.html
+- https://www.cobalt.io/blog/file-upload-vulnerabilities
