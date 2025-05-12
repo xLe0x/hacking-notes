@@ -1,6 +1,6 @@
 copied from [Break intro cyber security](https://jhalon.github.io/breaking-into-cyber-security/)
 
-# Things to recap and learn
+# Basics
 
 - Networking
     - IP Addresses: Understand both IPv4 and IPv6 and how they are used.
