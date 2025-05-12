@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "d12386c1b6bf11a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f8a087d167e04bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1aa98c0f0e92164c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "networking/notes/5. Logical Address vs Physical Address.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Logical Address vs Physical Address"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ee090b0725211c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b010af9656070c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92252daeeb1b5272",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "47d14c589df2970e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5acf61a414f73966",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 349,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e945effeb781375a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1732319f7604949c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd80242d03007a04",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "8ae1626db22d69e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "d4d7aacbcc2979fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1d5ae2a1fca7c37a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1aa98c0f0e92164c",
+  "lastOpenFiles": [
+    "networking/notes/4. Network Topology.md",
+    "networking/notes/5. Logical Address vs Physical Address.md",
+    "networking/notes/3. Network Components.md",
+    "networking/notes/1. What is a network?.md",
+    "networking/notes/2. Network Services.md",
+    "networking/resources.md",
+    "networking/README.md",
+    "networking/networking.md",
+    "README.md",
+    "common-attacks-and-vulns/README.md",
+    "Tags",
+    "images"
+  ]
+}

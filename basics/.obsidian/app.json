@@ -1,0 +1,8 @@
+{
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "images",
+  "newLinkFormat": "shortest",
+  "readableLineLength": true,
+  "rightToLeft": false,
+  "alwaysUpdateLinks": true
+}
