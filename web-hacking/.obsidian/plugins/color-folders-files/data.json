@@ -20,5 +20,8 @@
       "textColor": "#000000"
     }
   },
-  "presetOrder": []
+  "presetOrder": [
+    "in-progress",
+    "done"
+  ]
 }

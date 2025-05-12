@@ -2,5 +2,6 @@
   "cssTheme": "Vanilla AMOLED",
   "accentColor": "#ff9742",
   "baseFontSizeAction": true,
-  "baseFontSize": 19
+  "baseFontSize": 19,
+  "theme": "obsidian"
 }
