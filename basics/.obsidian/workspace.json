@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "networking/resources.md",
+                "file": "networking/notes/3. Types of Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "resources"
+              "title": "3. Types of Networks"
             }
           }
         ]
@@ -171,14 +171,15 @@
   },
   "active": "a1c025c73a22884c",
   "lastOpenFiles": [
-    "networking/notes/7. OSI Model.md",
-    "networking/notes/6. Uni-cast vs Multi-cast vs Broadcast.md",
-    "networking/resources.md",
-    "networking/notes/5. Logical Address vs Physical Address.md",
-    "networking/notes/4. Network Topology.md",
-    "networking/notes/3. Network Components.md",
     "networking/notes/1. What is a network?.md",
+    "networking/notes/3. Types of Networks.md",
+    "networking/notes/6. Network Topology.md",
+    "networking/notes/5. Logical Address vs Physical Address.md",
+    "networking/notes/8. OSI Model.md",
+    "networking/notes/7. Uni-cast vs Multi-cast vs Broadcast.md",
+    "networking/notes/4. Network Components.md",
     "networking/notes/2. Network Services.md",
+    "networking/resources.md",
     "networking/README.md",
     "networking/networking.md",
     "README.md",
