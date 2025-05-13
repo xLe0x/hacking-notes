@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "networking/notes/9. TCP-IP Model.md",
+                "file": "networking/notes/4. Network Components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. TCP-IP Model"
+              "title": "4. Network Components"
             }
           }
         ]
@@ -172,11 +172,11 @@
   "active": "a1c025c73a22884c",
   "lastOpenFiles": [
     "networking/notes/8. OSI Model.md",
+    "networking/notes/4. Network Components.md",
     "networking/notes/9. TCP-IP Model.md",
     "networking/notes/7. Uni-cast vs Multi-cast vs Broadcast.md",
     "networking/notes/6. Network Topology.md",
     "networking/notes/5. Logical and Physical Addresses.md",
-    "networking/notes/4. Network Components.md",
     "networking/notes/3. Types of Networks.md",
     "networking/notes/1. What is a network?.md",
     "networking/notes/2. Network Services.md",
