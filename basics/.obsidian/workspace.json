@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "76e205428e395a46",
+        "id": "4511833fbf83c040",
         "type": "tabs",
         "children": [
           {
-            "id": "a1c025c73a22884c",
+            "id": "79ae50644455bf05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "networking/notes/4. Network Components.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "4. Network Components"
+              "title": "New tab"
             }
           }
         ]
@@ -169,10 +165,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1c025c73a22884c",
+  "active": "79ae50644455bf05",
   "lastOpenFiles": [
-    "networking/notes/8. OSI Model.md",
     "networking/notes/4. Network Components.md",
+    "networking/notes/8. OSI Model.md",
     "networking/notes/9. TCP-IP Model.md",
     "networking/notes/7. Uni-cast vs Multi-cast vs Broadcast.md",
     "networking/notes/6. Network Topology.md",
