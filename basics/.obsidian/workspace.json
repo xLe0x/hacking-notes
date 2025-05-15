@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4511833fbf83c040",
+        "id": "d65fe6f68ebd2061",
         "type": "tabs",
         "children": [
           {
-            "id": "79ae50644455bf05",
+            "id": "c674ea1dca55da27",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,8 +165,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79ae50644455bf05",
+  "active": "c674ea1dca55da27",
   "lastOpenFiles": [
+    "networking/notes/1. What is a network.md",
     "networking/notes/4. Network Components.md",
     "networking/notes/8. OSI Model.md",
     "networking/notes/9. TCP-IP Model.md",
