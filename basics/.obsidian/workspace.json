@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d65fe6f68ebd2061",
+        "id": "fb8bf5fcd247b864",
         "type": "tabs",
         "children": [
           {
-            "id": "c674ea1dca55da27",
+            "id": "58c19ba8ceff4046",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "networking/notes/9. Domain Name System (DNS).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "9. Domain Name System (DNS)"
+              "title": "New tab"
             }
           }
         ]
@@ -169,8 +165,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c674ea1dca55da27",
+  "active": "58c19ba8ceff4046",
   "lastOpenFiles": [
+    "networking/notes/9. Domain Name System (DNS).md",
     "images/Pasted image 20250516015126.png",
     "images/Pasted image 20250516015117.png",
     "networking/notes/8. Network Address Translation (NAT).md",
@@ -179,7 +176,6 @@
     "networking/notes/5. Network Components.md",
     "networking/notes/4. TCP-IP Model.md",
     "networking/notes/3. OSI Model.md",
-    "networking/notes/9. Domain Name System (DNS).md",
     "images/Pasted image 20250516012706.png",
     "images/Pasted image 20250516002418.png",
     "networking/notes/3. Types of Networks.md",
