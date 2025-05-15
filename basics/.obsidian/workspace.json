@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "networking/notes/7. Network Address Translation (NAT).md",
+                "file": "networking/notes/8. Domain Name System (DNS).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Network Address Translation (NAT)"
+              "title": "8. Domain Name System (DNS)"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "right": {
     "id": "e945effeb781375a",
@@ -172,11 +171,12 @@
   },
   "active": "c674ea1dca55da27",
   "lastOpenFiles": [
+    "networking/notes/10. TCP-IP Model.md",
+    "networking/notes/8. Domain Name System (DNS).md",
+    "networking/notes/9. OSI Model.md",
+    "networking/notes/7. Network Address Translation (NAT).md",
     "images/Pasted image 20250516012706.png",
     "networking/notes/6. Dynamic Host Configuration Protocol (DHCP).md",
-    "networking/notes/7. Network Address Translation (NAT).md",
-    "networking/notes/9. TCP-IP Model.md",
-    "networking/notes/8. OSI Model.md",
     "images/Pasted image 20250516002418.png",
     "networking/notes/5. Network Communication.md",
     "networking/notes/4. Network Components.md",
