@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "networking/notes/5. Network Communication.md",
+                "file": "networking/notes/6. Dynamic Host Configuration Protocol (DHCP).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Network Communication"
+              "title": "6. Dynamic Host Configuration Protocol (DHCP)"
             }
           }
         ]
@@ -169,19 +169,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92252daeeb1b5272",
+  "active": "c674ea1dca55da27",
   "lastOpenFiles": [
-    "networking/notes/6. Network Topology.md",
     "networking/notes/5. Network Communication.md",
+    "networking/notes/6. Dynamic Host Configuration Protocol (DHCP).md",
+    "networking/notes/7. OSI Model.md",
+    "networking/notes/8. TCP-IP Model.md",
     "networking/notes/4. Network Components.md",
     "networking/notes/3. Types of Networks.md",
+    "networking/notes/7. Uni-cast vs Multi-cast vs Broadcast.md",
+    "networking/notes/6. Network Topology.md",
     "networking/notes/1. What is a network.md",
     "networking/notes/2. Network Services.md",
     "images/Pasted image 20250515235116.png",
     "images/Pasted image 20250515235016.png",
-    "networking/notes/8. OSI Model.md",
-    "networking/notes/9. TCP-IP Model.md",
-    "networking/notes/7. Uni-cast vs Multi-cast vs Broadcast.md",
     "networking/notes/1. What is a network?.md",
     "networking/resources.md",
     "networking/README.md",
