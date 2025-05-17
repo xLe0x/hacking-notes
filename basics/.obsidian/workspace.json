@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "networking/notes/10. Internet Architecture.md",
+                "file": "networking/notes/11. Wireless Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Internet Architecture"
+              "title": "11. Wireless Networks"
             }
           }
         ]
@@ -171,13 +171,14 @@
   },
   "active": "27df26a603d5c231",
   "lastOpenFiles": [
+    "networking/notes/10. Internet Architecture.md",
+    "networking/notes/11. Wireless Networks.md",
     "images/Pasted image 20250517232818.png",
     "images/Pasted image 20250517232743.png",
     "images/Pasted image 20250517232238.png",
     "images/Pasted image 20250517232215.png",
     "images/Pasted image 20250517225041.png",
     "networking/resources.md",
-    "networking/notes/10. Internet Architecture.md",
     "networking/notes/9. Domain Name System (DNS).md",
     "images/Pasted image 20250516015126.png",
     "images/Pasted image 20250516015117.png",
@@ -195,7 +196,6 @@
     "networking/notes/1. What is a network.md",
     "networking/notes/2. Network Services.md",
     "images/Pasted image 20250515235116.png",
-    "images/Pasted image 20250515235016.png",
     "networking/notes/1. What is a network?.md",
     "networking/README.md",
     "networking/networking.md",
