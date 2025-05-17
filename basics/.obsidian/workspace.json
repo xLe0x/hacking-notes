@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fb8bf5fcd247b864",
+        "id": "98ac3b095a117083",
         "type": "tabs",
         "children": [
           {
-            "id": "58c19ba8ceff4046",
+            "id": "7a5860187ced1e88",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,7 +165,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58c19ba8ceff4046",
+  "active": "7a5860187ced1e88",
   "lastOpenFiles": [
     "networking/notes/9. Domain Name System (DNS).md",
     "images/Pasted image 20250516015126.png",
