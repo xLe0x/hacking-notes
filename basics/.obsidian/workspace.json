@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d22aaf505d06a587",
+        "id": "2047bba0b8b2aaf0",
         "type": "tabs",
         "children": [
           {
-            "id": "75b9818b7d7e3058",
+            "id": "44125cf693f9a827",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,7 +165,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75b9818b7d7e3058",
+  "active": "44125cf693f9a827",
   "lastOpenFiles": [
     "networking/notes/11. Wireless Networks.md",
     "networking/notes/10. Internet Architecture.md",
